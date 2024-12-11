@@ -1,0 +1,29 @@
+body{
+    margin:0;
+}
+
+#computer{
+    height:25%;
+}
+
+#deck{
+    width:50%;
+    height:50%;
+}
+
+#pile{
+    width:50%;
+    height:50%;
+}
+
+#player{
+    height:25%;
+}
+
+.small-card{
+    
+}
+
+.big-card{
+    
+}
